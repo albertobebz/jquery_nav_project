@@ -49,6 +49,10 @@ body {
   text-transform: uppercase;
 }
 
+.close {
+  width: 60px;
+}
+
 .icon-close {
   cursor: pointer;
   padding-left: 10px;
