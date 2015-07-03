@@ -47,6 +47,7 @@ body {
   font-size: 15px;
   text-decoration: none;
   text-transform: uppercase;
+  cursor: default;
 }
 
 .menu a:hover {
@@ -61,7 +62,7 @@ body {
 
 .icon-close {
   width: 59px;
-  cursor: pointer;
+  cursor: crosshair;
   padding-left: 10px;
   padding-top: 10px;
 }
@@ -69,7 +70,7 @@ body {
 .icon-menu {
   width: 100px;
   color: #fff;
-  cursor: pointer;
+  cursor: crosshair;
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
   padding-bottom: 25px;
