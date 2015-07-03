@@ -1,0 +1,1 @@
+Personal project for testing my knowledge with jQuery applied for hiding a nav on the left side of the page
