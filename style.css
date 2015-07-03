@@ -27,14 +27,14 @@ body {
 }
 
 .menu ul {
-  border-top: 1px solid #636366;
+  border-top: 1px solid white;
   list-style: none;
   margin: 0;
   padding: 0;
 }
 
 .menu li {
-  border-bottom: 1px solid #636366;
+  border-bottom: 1px solid white;
   font-family: 'Open Sans', sans-serif;
   line-height: 45px;
   padding-bottom: 3px;
@@ -47,6 +47,10 @@ body {
   font-size: 15px;
   text-decoration: none;
   text-transform: uppercase;
+}
+
+.menu a:hover {
+  color: black;
 }
 
 .close {
