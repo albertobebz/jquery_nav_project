@@ -56,8 +56,13 @@ body {
 
 .close {
   width: 60px;
-  background-color: white;
+  background-color: rgb(121, 191, 173);
   margin-bottom: 9px;
+  margin-left: 1px;
+}
+
+.close:hover {
+  background-color: rgb(236, 214, 130);
 }
 
 .icon-close {
